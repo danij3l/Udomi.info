@@ -1,0 +1,33 @@
+.row header h2 {
+	margin-bottom: 0px;
+}
+
+.row footer {
+	margin-bottom: 10px;
+	color: #000;
+}
+
+.lead {
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+
+.pics{
+	width: 650px;
+	height: 220px;
+}
+
+.pasIDijete{
+	width: 550px;
+	height: 320px;
+}
+
+.pasIDijete:hover{
+	transform: scale(1.09);
+}
+
+.pics:hover{
+	transform: scale(1.09);
+}
+
+
